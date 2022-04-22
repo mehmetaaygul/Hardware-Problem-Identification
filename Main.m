@@ -4,7 +4,7 @@ clear all
 close all
 clc
 
-samples = 1000; %Number of samples
+samples = 40000; %Number of samples
 
 N = 1e3; % Number of symbols
 M = 4; % Modulation order
